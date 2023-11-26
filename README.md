@@ -15,7 +15,8 @@ The "100 Days of Code" challenge is a personal commitment to coding for at least
 
 ## 🗼 Structure
 
-Each day's project is stored in its own directory, named `Day_<number>_<ProjectName>`. Inside each directory, you'll find:
+
+The repository is organized into weekly folders, each containing the projects for that week. Each week's folder is named `Week_<number>`. Inside each weekly folder, the daily projects are stored in their own directories, named `Day_<number>_<ProjectName>`. Inside each daily directory, you'll find:
 
 - Python script(s) for the day's project.
 - A brief README file explaining the project, its functionality, and any special libraries used.
