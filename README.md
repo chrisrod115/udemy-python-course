@@ -23,12 +23,17 @@ The repository is organized into weekly folders, each containing the projects fo
 - Additional resources or files used in the project, if any.
 
 ## 📈 My Progress
-Each day, I will update this section with the projects I've completed, detailing the day, project name, and a brief description.
+Each day, I will update this section with the projects I've completed, detailing the day, project name, and a brief description. 
 
-| Day | Project | Description |
-|-----|---------|-------------|
-| 1   | [Project Name](Link to Day 1 folder) | Brief description of Day 1 project |
-| ... | ...      | ...         |
+_I found myself finishing some of my projects faster than I expected and ended up doing a few in the same day._
+
+| Date       | Project | Description |
+|------------|---------|-------------|
+| 2023-11-26 | [Band Name Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_1_BandNameGenerator) | A simple program to generate band names based on user input. |
+| 2023-11-26 | [Tip Calculator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_2_TipCalculator) | A program that calculates the total cost of a meal including tip. |
+| 2023-11-26 | [Treasure Island](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_3_TreasureIsland) | An interactive text-based adventure game where players seek treasure. |
+| ...        | ...      | ...         |
+
 
 _I'll be updating this table as I progress through the challenge._
 
