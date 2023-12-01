@@ -33,9 +33,10 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-11-26 | [Tip Calculator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_2_TipCalculator) | A program that calculates the total cost of a meal including tip. |
 | 2023-11-26 | [Treasure Island](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_3_TreasureIsland) | An interactive text-based adventure game where players seek treasure. |
 | 2023-11-27 | [Rock Paper Scissors Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_4_RockPaperScissors) | A classic rock paper scissors game implemented in Python. |
-| 2023-11-28 | [Password Generator (In Progress)](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_5_ProjectName) | Part of Day 5 project completed, with the remainder to be finished tomorrow. |
-
-
+| 2023-11-28 | [Password Generator (In Progress)](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_5_PasswordGenerator) | Part of Day 5 project completed, with the remainder to be finished tomorrow. |
+| 2023-11-28 | [Password Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_5_PasswordGenerator) | A program to generate secure and random passwords. |
+| 2023-11-29 | [Reeborg's World Challenge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_6_EscapingTheMaze) | Completed a series of challenges in Reeborg's World, focusing on problem-solving and logical thinking. |
+| 2023-11-29 | [Hangman Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_7_Hangman) | Developed a personalized version of the Hangman game, enhancing my skills in Python string manipulation and control structures. |
 
 _I'll be updating this table as I progress through the challenge._
 
