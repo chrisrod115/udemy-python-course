@@ -38,6 +38,7 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-11-29 | [Reeborg's World Challenge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_6_EscapingTheMaze) | Completed a series of challenges in Reeborg's World, focusing on problem-solving and logical thinking. |
 | 2023-11-30 | [Hangman Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_7_Hangman) | Developed a personalized version of the Hangman game, enhancing my skills in Python string manipulation and control structures. |
 | 2023-12-1 | [Caesar Cipher](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_8_CaeserCipher) | Implemented a Caesar Cipher encryption and decryption tool, practicing string manipulation and algorithmic logic in Python. |
+| 2023-12-03 | [Secret Auction](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_9_SecretAuction) | Implemented a secret auction system where users can place hidden bids. |
 
 _I'll be updating this table as I progress through the challenge._
 
