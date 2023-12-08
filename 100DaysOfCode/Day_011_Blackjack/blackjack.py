@@ -62,8 +62,7 @@ def play_blackjack():
     else:
         return f"You lost! Your hand: {player_hand}, Dealer's hand: {dealer_hand}"
 
-# cards = [2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10, 11]  # 10s and face cards are all worth 10, 11 for Aces
-cards = [11, 11]  # 10s and face cards are all worth 10, 11 for Aces
+cards = [2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10, 11]  # 10s and face cards are all worth 10, 11 for Aces
 
 
 print("Welcome to Blackjack!")

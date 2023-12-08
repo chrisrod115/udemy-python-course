@@ -29,17 +29,17 @@ _I found myself finishing some of my projects faster than I expected and ended u
 
 | Date       | Project | Description |
 |------------|---------|-------------|
-| 2023-11-26 | [Band Name Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_1_BandNameGenerator) | A simple program to generate band names based on user input. |
-| 2023-11-26 | [Tip Calculator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_2_TipCalculator) | A program that calculates the total cost of a meal including tip. |
-| 2023-11-26 | [Treasure Island](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_3_TreasureIsland) | An interactive text-based adventure game where players seek treasure. |
-| 2023-11-27 | [Rock Paper Scissors Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_4_RockPaperScissors) | A classic rock paper scissors game implemented in Python. |
-| 2023-11-28 | [Password Generator (In Progress)](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_5_PasswordGenerator) | Part of Day 5 project completed, with the remainder to be finished tomorrow. |
-| 2023-11-28 | [Password Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_5_PasswordGenerator) | A program to generate secure and random passwords. |
-| 2023-11-29 | [Reeborg's World Challenge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_6_EscapingTheMaze) | Completed a series of challenges in Reeborg's World, focusing on problem-solving and logical thinking. |
-| 2023-11-30 | [Hangman Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_7_Hangman) | Developed a personalized version of the Hangman game, enhancing my skills in Python string manipulation and control structures. |
-| 2023-12-1 | [Caesar Cipher](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_8_CaeserCipher) | Implemented a Caesar Cipher encryption and decryption tool, practicing string manipulation and algorithmic logic in Python. |
-| 2023-12-03 | [Secret Auction](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_9_SecretAuction) | Implemented a secret auction system where users can place hidden bids. |
-| 2023-12-05 | [Calculator App](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_10_CalculatorApp) | Created a functional calculator application, demonstrating proficiency in building interactive Python applications. |
+| 2023-11-26 | [Band Name Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_001_BandNameGenerator) | A simple program to generate band names based on user input. |
+| 2023-11-26 | [Tip Calculator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_002_TipCalculator) | A program that calculates the total cost of a meal including tip. |
+| 2023-11-26 | [Treasure Island](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_003_TreasureIsland) | An interactive text-based adventure game where players seek treasure. |
+| 2023-11-27 | [Rock Paper Scissors Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_004_RockPaperScissors) | A classic rock paper scissors game implemented in Python. |
+| 2023-11-28 | [Password Generator (In Progress)](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_005_PasswordGenerator) | Part of Day 5 project completed, with the remainder to be finished tomorrow. |
+| 2023-11-28 | [Password Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_005_PasswordGenerator) | A program to generate secure and random passwords. |
+| 2023-11-29 | [Reeborg's World Challenge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_006_EscapingTheMaze) | Completed a series of challenges in Reeborg's World, focusing on problem-solving and logical thinking. |
+| 2023-11-30 | [Hangman Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_007_Hangman) | Developed a personalized version of the Hangman game, enhancing my skills in Python string manipulation and control structures. |
+| 2023-12-1 | [Caesar Cipher](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_008_CaeserCipher) | Implemented a Caesar Cipher encryption and decryption tool, practicing string manipulation and algorithmic logic in Python. |
+| 2023-12-03 | [Secret Auction](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_009_SecretAuction) | Implemented a secret auction system where users can place hidden bids. |
+| 2023-12-05 | [Calculator App](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_010_CalculatorApp) | Created a functional calculator application, demonstrating proficiency in building interactive Python applications. |
 
 _I'll be updating this table as I progress through the challenge._
 
