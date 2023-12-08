@@ -41,6 +41,7 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-12-03 | [Secret Auction](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_009_SecretAuction) | Implemented a secret auction system where users can place hidden bids. |
 | 2023-12-05 | [Calculator App](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_010_CalculatorApp) | Created a functional calculator application, demonstrating proficiency in building interactive Python applications. |
 | 2023-12-08 | [Blackjack](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_011_Blackjack) | Developed a Blackjack game, enhancing understanding of Python's function programming and game logic. |
+| 2023-12-08 | [NumberGuessingGame](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_011_NumberGuessingGame) | Developed a Number guessing game, focused on code stability and legibility. Functionality was a straight forward task. |
 
 _I'll be updating this table as I progress through the challenge._
 
