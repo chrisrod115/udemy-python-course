@@ -3,24 +3,25 @@ from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 
 menu = Menu()
+coffee_maker = CoffeeMaker()
+money_machine = MoneyMachine()
 
-drinks_available = menu.get_items()
 
+is_on = True
+while is_on:
+    options = menu.get_items()
+    choice = str(input(f"Make a selection ({options}): ")).strip().lower()
+    if choice == "off":
+        print("Power Off.")
+        is_on = False
+    elif choice == "report":
+        print(coffee_maker.report())
+        print(money_machine.report())
+    else:
+        drink = menu.find_drink(choice)
+        print(f"Price of {drink.name} = ${drink.cost}")
+        if (coffee_maker.is_resource_sufficient(drink)) and (money_machine.make_payment(drink.cost)):
+            coffee_maker.make_coffee(drink)
 
-def coffee():
-    machine_on = True
-    while machine_on:
-        try:
-            drink_name = str(input(f"What would you like? ({drinks_available}): ")).strip().lower()
-            if (menu.find_drink(drink_name)) or ("off") or ("report"):
-                raise ValueError("Invalid input. Please only enter available drinks!")
-            break
-        except ValueError as e:
-                    print(e)
-
-        if machine_on == "off":
-            machine_on = False
-        elif drink_name == "report":
-            CoffeeMaker().report()
-
-coffee()
+    
+    
