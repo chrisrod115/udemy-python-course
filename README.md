@@ -44,6 +44,8 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-12-08 | [NumberGuessingGame](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_012_NumberGuessingGame) | Developed a Number guessing game, focused on code stability and legibility. Functionality was a straight forward task. |
 | 2023-12-11 | [HigherLower Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_014_HigherLower) | Developed the 'HigherLower' game, focusing on data comparison and user interaction in Python. |
 | 2023-12-11 | [CoffeeMachine Program](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_015_CoffeeMachine) | Completed the 'CoffeeMachine' program, simulating a real-world coffee machine with resource management and transaction handling. |
+| 2023-12-14 | [CoffeeMachineOOP](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_016_CoffeeMachineOOP) | Refined the CoffeeMachine program using object-oriented programming principles for better code organization and scalability. |
+| 2023-12-14 | [QuizGame](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_017_QuizGame) | Developed a Quiz Game, enhancing skills in data handling and user interaction within a fun, educational context. |
 
 _I'll be updating this table as I progress through the challenge._
 
