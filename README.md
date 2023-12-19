@@ -46,6 +46,10 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-12-11 | [CoffeeMachine Program](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_015_CoffeeMachine) | Completed the 'CoffeeMachine' program, simulating a real-world coffee machine with resource management and transaction handling. |
 | 2023-12-14 | [CoffeeMachineOOP](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_016_CoffeeMachineOOP) | Refined the CoffeeMachine program using object-oriented programming principles for better code organization and scalability. |
 | 2023-12-14 | [QuizGame](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_017_QuizGame) | Developed a Quiz Game, enhancing skills in data handling and user interaction within a fun, educational context. |
+| 2023-12-15 | [Hirst Painting](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_018_HirstPainting) | Created a digital painting program inspired by the artwork of Damien Hirst, utilizing Python's turtle graphics. |
+| 2023-12-17 | [Turtle Coordinate](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_019_TurtleCoordinate) | Implemented a program to visually represent coordinate systems and paths using Python's turtle module. |
+| 2023-12-18 | [Snake Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_020_SnakeGame) | Built a classic snake game, practicing more advanced Python programming concepts and game development. |
+
 
 _I'll be updating this table as I progress through the challenge._
 
