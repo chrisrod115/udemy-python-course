@@ -1,0 +1,25 @@
+#### Snake Game ####
+
+Breaking down the snake game. As I updated on the previous commit. I changed my direction and 
+focus when it comes to programming and in my opinion this is what I will spend the most time doing
+instead of writing code. I feel like it will be a better way to use my time.
+
+# Main things to complete (overview):
+
+1. We need to move the snake 
+2. Make sure to add food to the field 
+3. Create a boundary the size of the screen
+
+# Subtasks (these are smaller tasks to complete): 
+
+1. If the head hits the body it should end game
+2. If you eat a piece of food it should add length to the snake
+3. Add key-presses to set the direction of the snake
+4. Check to see if you are near the snake food and decide when it adds it to the tail
+5. Make the food dissapear 
+
+# How to complete this while using OOP: 
+
+1. create a snake class 
+2. create a food class
+3. combine both in main
