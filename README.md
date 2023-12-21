@@ -1,34 +1,28 @@
-#  100 Days of Code Challenge
+# 🚀 100 Days of Code Challenge with Python
 
-Welcome to my "100 Days of Code" challenge! In this repository, I'll be documenting my progress as I develop 100 different applications over 100 days, using Python. This challenge is guided by Angela Yu, a renowned online instructor from Udemy, known for her comprehensive and engaging teaching style. 
+Welcome to my coding journey! I'm tackling the "100 Days of Code" challenge, focusing on Python, under the guidance of Angela Yu's course on Udemy.
 
-## 📚 About the Challenge
+## 📚 Challenge Overview
 
-The "100 Days of Code" challenge is a personal commitment to coding for at least an hour every day for the next 100 days. I've decided to focus on Python due to its versatility and widespread use in various fields like web development, data science, automation, and more. Each day, I'll be building a new application, starting from basic projects to more complex ones as I progress.
+- **Goals**: 
+  - 🔄 **Consistency**: Code daily for 100 days.
+  - 🧠 **Learning**: Enhance my Python skills.
+  - 🎨 **Portfolio Building**: Develop a range of projects.
+  - 🤝 **Community Engagement**: Connect with fellow coders.
 
-## :triangular_flag_on_post: Goals
+## 🗼 Repository Structure
 
-- **Consistency**: To code every day for 100 days.
-- **Learning**: To deepen my understanding of Python and its applications.
-- **Portfolio Building**: To create a diverse range of projects that can be added to my portfolio.
-- **Community Engagement**: To connect with other learners and developers in the coding community.
+- **Weekly Folders**: `Week_<number>`
+- **Daily Projects**: `Day_<number>_<ProjectName>` with script, README, and resources.
 
-## 🗼 Structure
+## 📈 Progress Tracker
 
+[Weekly summaries and highlights of projects. For detailed daily updates, visit [Project Updates](https://github.com/chrisrod115/udemy-python-course/tree/main/Weekly_Reviews).]
 
-The repository is organized into weekly folders, each containing the projects for that week. Each week's folder is named `Week_<number>`. Inside each weekly folder, the daily projects are stored in their own directories, named `Day_<number>_<ProjectName>`. Inside each daily directory, you'll find:
-
-- Python script(s) for the day's project.
-- A brief README file explaining the project, its functionality, and any special libraries used.
-- Additional resources or files used in the project, if any.
-
-## 📈 My Progress
-Each day, I will update this section with the projects I've completed, detailing the day, project name, and a brief description. 
-
-_I found myself finishing some of my projects faster than I expected and ended up doing a few in the same day._
-
+| Date | Project | Description |
+| --- | --- | --- |
 | Date       | Project | Description |
-|------------|---------|-------------|
+|--------|---------|-------------|
 | 2023-11-26 | [Band Name Generator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_001_BandNameGenerator) | A simple program to generate band names based on user input. |
 | 2023-11-26 | [Tip Calculator](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_002_TipCalculator) | A program that calculates the total cost of a meal including tip. |
 | 2023-11-26 | [Treasure Island](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_003_TreasureIsland) | An interactive text-based adventure game where players seek treasure. |
@@ -49,27 +43,24 @@ _I found myself finishing some of my projects faster than I expected and ended u
 | 2023-12-15 | [Hirst Painting](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_018_HirstPainting) | Created a digital painting program inspired by the artwork of Damien Hirst, utilizing Python's turtle graphics. |
 | 2023-12-17 | [Turtle Coordinate](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_019_TurtleCoordinate) | Implemented a program to visually represent coordinate systems and paths using Python's turtle module. |
 | 2023-12-18 | [Snake Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_020_SnakeGame) | Built a classic snake game, practicing more advanced Python programming concepts and game development. |
+| ... | ... | ... |
 
+## 🙌 Using the Repository
 
-_I'll be updating this table as I progress through the challenge._
+1. Clone the repo: `git clone [repo-link]`
+2. Navigate to a project: `cd Week_<number>/Day_<number>_<ProjectName>`
+3. Run the script: `python script.py`
 
-## 🙌 How to Use This Repository
+## 🌟 Collaboration and Contact
 
-Feel free to explore the projects in this repository. If you're also doing the 100 Days of Code challenge, I hope my journey inspires you. To run any of the projects:
+Let's collaborate! Contact me at:
 
-1. Clone the repository.
-2. Navigate to the desired project's directory.
-3. Run the Python script in your preferred environment.
-
-## 🌟 Collaboration
-I'm always eager to explore new ideas and engage in collaborations. If you're working on a project related to embedded systems or software development and think I can contribute, please reach out!
-
-## 📫 Connect with Me
 - **LinkedIn**: [Christopher M. Rodriguez](https://www.linkedin.com/in/christopher-moises-rodriguez)
 - **Email**: [chrisrod115@gmail.com](mailto:chrisrod115@gmail.com)
 
-## Acknowledgements
+## 📫 Acknowledgements
 
-A huge thank you to Angela Yu for her incredible course on Udemy, which has been instrumental in guiding me through this challenge.
+Thanks to Angela Yu for her inspiring course. Here's to coding and growing together!
+
 
 _This challenge is just the beginning. Let's code and grow together!_
