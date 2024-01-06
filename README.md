@@ -42,7 +42,13 @@ Welcome to my coding journey! I'm tackling the "100 Days of Code" challenge, foc
 | 2023-12-14 | [QuizGame](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_017_QuizGame) | Developed a Quiz Game, enhancing skills in data handling and user interaction within a fun, educational context. |
 | 2023-12-15 | [Hirst Painting](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_018_HirstPainting) | Created a digital painting program inspired by the artwork of Damien Hirst, utilizing Python's turtle graphics. |
 | 2023-12-17 | [Turtle Coordinate](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_019_TurtleCoordinate) | Implemented a program to visually represent coordinate systems and paths using Python's turtle module. |
-| 2023-12-18 | [Snake Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_020_SnakeGame) | Built a classic snake game, practicing more advanced Python programming concepts and game development. |
+| 2023-12-18 | [Snake Game Part 1](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_020_SnakeGamePart1) | Built a classic snake game, practicing more advanced Python programming concepts and game development. |
+| 2023-12-19 | [Snake Game Part 2](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_021_SnakeGamePart2) | Enhanced the Snake Game with additional features and functionalities, improving the gameplay experience. |
+| 2023-12-20 | [Pong Game](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_022_PongGame) | Developed the classic Pong Game, practicing graphical user interface creation and event handling in Python. |
+| 2023-12-20 | [Turtle Crossing](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_023_TurtleCrossing) | Built a Turtle Crossing game, focusing on creating animations and managing game state. |
+| 2023-12-26 | [Mail Merge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_024_MailMerge) | Implemented a Mail Merge program, automating the process of generating multiple personalized letters. |
+| 2023-12-28 | [Blank States](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_025_BlankStates) | Created an interactive educational program for learning US state locations, utilizing Python's graphical capabilities. |
+| 2023-12-30 | [NATO Alphabet](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_026_NATOAlphabet) | Developed a program to convert words to their NATO phonetic alphabet equivalents, enhancing data manipulation skills. |
 | ... | ... | ... |
 
 ## 🙌 Using the Repository
