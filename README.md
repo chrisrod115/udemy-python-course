@@ -49,8 +49,8 @@ Welcome to my coding journey! I'm tackling the "100 Days of Code" challenge, foc
 | 2023-12-26 | [Mail Merge](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_024_MailMerge) | Implemented a Mail Merge program, automating the process of generating multiple personalized letters. |
 | 2023-12-28 | [Blank States](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_025_BlankStates) | Created an interactive educational program for learning US state locations, utilizing Python's graphical capabilities. |
 | 2023-12-30 | [NATO Alphabet](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_026_NATOAlphabet) | Developed a program to convert words to their NATO phonetic alphabet equivalents, enhancing data manipulation skills. |
-| 2024-01-19 | [Day 27 GUI](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_27_GUI) | Description of the project. |
-
+| 2024-01-19 | [Day 27 GUI](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_27_GUI) | Tkinter miles to kilometers app. |
+| 2024-01-22 | [Day 28 Pomodoro](https://github.com/chrisrod115/udemy-python-course/tree/main/100DaysOfCode/Day_028_Pomodoro) | Description of the project. |
 | ... | ... | ... |
 
 ## 🙌 Using the Repository
