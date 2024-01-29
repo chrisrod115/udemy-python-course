@@ -22,6 +22,8 @@ def reset_timer():
     check_labels.config(text="")
     global init_count
     init_count = 0
+
+
 # ---------------------------- TIMER MECHANISM ------------------------------- #
 
 def start_timer():
