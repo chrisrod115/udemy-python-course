@@ -8,3 +8,4 @@ bill_split = (total_bill + tip_total) / total_people
 final_amount = round(bill_split, 2)
 final_amount = "{:.2f}".format(bill_split)
 print(f"Each person should pay: ${final_amount}")
+print(f"Tip amount per person: {tip_total}")

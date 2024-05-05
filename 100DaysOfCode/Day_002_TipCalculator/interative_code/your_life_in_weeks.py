@@ -1,3 +1,4 @@
+print(f"Enter your age: ")
 age = input()
 # 🚨 Don't change the code above 👆
 # Write your code below this line 👇
