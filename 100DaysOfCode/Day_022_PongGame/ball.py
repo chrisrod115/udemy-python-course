@@ -11,12 +11,12 @@ class Ball(Turtle):
         self.penup()
         self.x_move = 2
         self.y_move = 2
-        self.move_speed = 0.1
+        self.move_speed = 1
 
 
     def move(self):
-        new_x = self.xcor() + self.x_move
-        new_y = self.ycor() + self.y_move
+        new_x = self.xcor() + self.x_move * self.move_speed
+        new_y = self.ycor() + self.y_move * self.move_speed
         self.goto(new_x, new_y)
 
 
@@ -26,14 +26,16 @@ class Ball(Turtle):
 
     def bounce_x_l_paddle(self):
         self.x_move = (abs(self.x_move))
-        self.move_speed *= 0.9
+        self.move_speed *= 1.1
  
     def bounce_x_r_paddle(self):
         self.x_move = -(abs(self.x_move))
-        self.move_speed *= 0.9
+        self.move_speed *= 1.1
 
 
     def reset_position(self):
         self.goto(0, 0)
         self.move_speed = 0.1
         self.bounce_x()
+
+    
