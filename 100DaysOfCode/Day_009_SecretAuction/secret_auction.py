@@ -1,31 +1,36 @@
-def find_highest_bidder(bids):
-    highest_bid = 0
-    winner = ""
-    for bidder, bid in bids.items():
-        if bid > highest_bid:
-            highest_bid = bid
-            winner = bidder
-    return winner, highest_bid
+bids = {}  # Dictionary to store bids: {name: bid_amount}
+bidding = True
 
-auction_bids = {}
+while bidding:
+    auction = input("Would you like to start a bid (y/n): ").strip().lower()
+    if auction == 'y':
+        while True: # Loop for name input validation
+            name = input("What's your name: ").strip().lower()
+            if name.isalpha():
+                break  # Exit the loop if the name is valid
+            else:
+                print("Invalid Input. Only use alphabetic characters.")
 
-print("Welcome to the Secret Auction!")
+        while True: # Loop for bid input validation
+            try:
+                bid = int(input("How much would you like to bid: "))
+                if bid > 0: # Ensure bid is positive
+                    bids[name] = bid  # Store the bid
+                    break # exit the loop if bid input is valid
+                else:
+                    print("Bid must be greater than 0")
+            except ValueError:
+                print("Invalid input. Please enter a number.")
+    elif auction == 'n':
+        bidding = False
+        print("Auction ended.")
+    else:
+        print("Invalid input. Please enter 'y' or 'n'.")
 
-while True:
-    name = input("What is your name?: ").strip().lower()
-
-    try:
-        bid_amount = int(input("What is your bid?: $"))
-    except ValueError:
-        print("Please enter a valid number for your bid.")
-        continue
-
-    auction_bids[name] = bid_amount
-    # print(f"Bid of ${bid_amount} accepted from {name.title()}.")
-
-    other_bids = input("Are there any other bidders? Type 'yes' or 'no': ").strip().lower()
-    if other_bids != 'yes':
-        break
-
-winner, highest_bid = find_highest_bidder(auction_bids)
-print(f"\nThe winner is {winner.title()} with a bid of ${highest_bid}.")
+# After the auction ends, you can process the bids to find the winner (example):
+if bids:
+    highest_bidder = max(bids, key=bids.get)
+    highest_bid = bids[highest_bidder]
+    print(f"The winner is {highest_bidder} with a bid of ${highest_bid}.")
+else:
+    print("No bids were placed.")
