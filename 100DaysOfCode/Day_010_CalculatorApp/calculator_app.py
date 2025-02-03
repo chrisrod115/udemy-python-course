@@ -1,35 +1,40 @@
-def add(first, second):
-    return first + second
+import os
 
-def subtract(first, second):
-    return first - second
+OPERATORS=['+','-','*','/']
 
-def multiply(first, second):
-    return first * second
 
-def divide(first, second):
-    if second == 0:
-        return "Cannot divide by zero"
-    return first / second
+clear_screen=lambda:os.system('cls' if os.name=='nt' else 'clear')
 
-calculator_dictionary = {
-    "+": add,
-    "-": subtract,
-    "*": multiply,
-    "/": divide,
-}
 
-print("Welcome to the Calculator App.")
-
-try:
-    user_first = float(input("Enter the first number: ").strip())
-    operation = input("Enter an operation (+, -, *, /): ").strip()
-    user_second = float(input("Enter your second number: ").strip())
-
-    if operation in calculator_dictionary:
-        result = calculator_dictionary[operation](user_first, user_second)
-        print("Result:", result)
+# calculator app
+def do_the_maths(num1, num2, operator):
+    if operator=='+':
+        return num1+num2
+    elif operator=='-':
+        return num1-num2
+    elif operator=='*':
+        return num1*num2
     else:
-        print("Invalid operation.")
-except ValueError:
-    print("Invalid input. Please enter a number.")
+        return num1/num2
+
+
+calculating=True
+while calculating:
+    clear_screen()
+    print("Calculator App!")
+    # Input number 1:
+    number_one=int(input("Enter the first number: "))
+    # Input number 2:
+    number_two=int(input("Enter the second number: "))
+    # Input an operator:
+    while True:
+        operator=str(input("Enter the operator either (+, -, /, *): "))
+        if operator in OPERATORS:
+            print(do_the_maths(number_one, number_two, operator))
+            break
+        print("Invalid Input. Only enter the following symbols: (+, -, /, *).\n")
+    again=str(input("Would you like to calculate something else? (Y/N) ")).strip().lower()
+    if (again=='y'):
+        continue
+    else:
+        break
