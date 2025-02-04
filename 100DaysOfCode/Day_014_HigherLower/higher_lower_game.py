@@ -24,6 +24,7 @@ def compare_options(choice, option_one, option_two):
 playing=True
 while playing:
     clear_screen()
+    print(LOGO)
     print(f"Current Score = {SCORE}")
     option_one=get_random_data(data)
     option_two=get_random_data(data)
