@@ -12,7 +12,6 @@ clear_screen=lambda: os.system('cls' if os.name=='nt' else 'clear')
 
 coffee_available=True
 while coffee_available:
-    
     prompt=str(input(f"Make a selection {menu.get_items()}: ")).strip().lower()
     drink=menu.find_drink(prompt)
     name=drink.name
@@ -24,7 +23,6 @@ while coffee_available:
     print(f"Your {name} is going to cost: {cost}")
     payment=money.make_payment(cost)
     if payment:
-        clear_screen()
         coffee_maker.make_coffee(drink)
         print('\n')
     else:

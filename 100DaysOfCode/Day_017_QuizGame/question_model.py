@@ -1,5 +1,4 @@
-class Question:
-    def __init__(self, q_text, q_answer) -> None:
-        self.text = q_text
-        self.answer = q_answer
-        
+class QuestionModel:
+    def __init__(self, question, answer) -> None:
+        self.question = question
+        self.answer = answer
