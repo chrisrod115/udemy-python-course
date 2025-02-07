@@ -38,7 +38,7 @@ while playing:
             choice=str(input(f"Who has a higher follower count, a or b: ")).lower().strip()
             if choice not in ['a','b']:
                 print("Only enter the letters a or b!")
-            else:
+            elif choice in ['a', 'b']:
                 break
         except ValueError:
             print("Invalid input type. Only enter letters.")
